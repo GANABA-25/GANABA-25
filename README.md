@@ -3,7 +3,7 @@
 
 -  Full Stack Developer - MERN | React Native
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🔭 I’m currently working on **my portfolio.**
 

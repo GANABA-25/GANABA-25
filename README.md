@@ -1,5 +1,5 @@
 <h1 align="center">Hey what's up? 👋 I'm Nathaniel</h1>
-<h3 align="center">Frontend developer from Ghana.</h3>
+<h3 align="center">Full Stack Developer | MERN & React Native from Ghana.</h3>
 
 -  Full Stack Developer - MERN | React Native
 

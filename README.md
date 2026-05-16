@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganaba-25" alt="ganaba-25" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [git push -u origin main](git push -u origin main)
+- 👨‍💻 All of my projects are available at [https://github.com/GANABA-25]
 
 - 💬 Ask me about **React , Next, Node.js, MongoDB,**
 

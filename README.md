@@ -5,4 +5,5 @@ I'm Nathaniel — a MERN stack software developer from Ghana 🇬🇭
 📊 Exploring product growth, monetization, and subscription-based systems  
 👯 Open to collaborating on SaaS or AI-driven projects  
 📫 Reach me: nathanielowusu01@gmail.com | www.linkedin.com/in/nathanielowusu01  
+📫 Portfolio: https://nathanielowusu.vercel.app  
 ⚡ Fun fact: Football, Gaming 😄  
